@@ -1,0 +1,2 @@
+# schooldiary
+School management system
