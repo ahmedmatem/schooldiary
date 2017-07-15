@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolDiary.Model", "SchoolDiary.Model\SchoolDiary.Model.csproj", "{800B5711-50C4-4098-9566-461EA3DD1EE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolDiary.Data", "SchoolDiary.Data\SchoolDiary.Data.csproj", "{AC4150AA-B245-4565-94D2-94810F54D965}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolDiary.Api", "SchoolDiary.Api\SchoolDiary.Api.csproj", "{9662BD6C-100D-4749-B30F-193A0DF1433A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{800B5711-50C4-4098-9566-461EA3DD1EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{800B5711-50C4-4098-9566-461EA3DD1EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{800B5711-50C4-4098-9566-461EA3DD1EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{800B5711-50C4-4098-9566-461EA3DD1EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4150AA-B245-4565-94D2-94810F54D965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4150AA-B245-4565-94D2-94810F54D965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4150AA-B245-4565-94D2-94810F54D965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4150AA-B245-4565-94D2-94810F54D965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9662BD6C-100D-4749-B30F-193A0DF1433A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9662BD6C-100D-4749-B30F-193A0DF1433A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9662BD6C-100D-4749-B30F-193A0DF1433A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9662BD6C-100D-4749-B30F-193A0DF1433A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
